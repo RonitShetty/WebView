@@ -29,7 +29,8 @@ NOTE: For this to work, you need to include internet permission in your android 
 
 ![image](https://github.com/user-attachments/assets/62761c70-4586-463f-8606-70be7e4f232f)
 
-Since the file is bigger than usual, download the zip directly to access the files.
+
+Since the file of all codes and documents required to start this appplication is bigger than usual, download the zip directly to access the files.
 
 
 <h1>Software used: Android studio </h1>
