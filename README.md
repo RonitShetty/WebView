@@ -29,6 +29,8 @@ NOTE: For this to work, you need to include internet permission in your android 
 
 ![image](https://github.com/user-attachments/assets/62761c70-4586-463f-8606-70be7e4f232f)
 
+Since the file is bigger than usual, download the zip directly to access the files.
+
 
 <h1>Software used: Android studio </h1>
 Installation guide: <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwq_G1BhCSARIsACc7NxqfoSQcy_t6iiijQPFbfxg6YjpHsABbDhvwLatuM_vQhxvdOXC8PSUaAgSYEALw_wcB&gclsrc=aw.ds">Link to install with all steps</a> 
